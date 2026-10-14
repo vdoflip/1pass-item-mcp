@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "1pass-item": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/vdoflip/1pass-item-mcp@v0.1.0",
+        "1pass-item-mcp",
+        "serve"
+      ]
+    }
+  }
+}

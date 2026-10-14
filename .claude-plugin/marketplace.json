@@ -1,0 +1,12 @@
+{
+  "name": "1pass-item-mcp",
+  "description": "Bounded access to individual 1Password items for Claude Code",
+  "owner": { "name": "vdoflip", "url": "https://github.com/vdoflip" },
+  "plugins": [
+    {
+      "name": "1pass-item-mcp",
+      "source": "./claude-plugin",
+      "description": "Use individual, allowlisted 1Password items one approved command at a time, without exposing the values to Claude."
+    }
+  ]
+}

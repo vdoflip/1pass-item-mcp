@@ -1,0 +1,11 @@
+{
+  "name": "1pass-item-mcp",
+  "displayName": "1Password items (bounded)",
+  "version": "0.1.0",
+  "description": "Use individual, allowlisted 1Password items one approved command at a time. Claude never sees the secret values.",
+  "author": { "name": "vdoflip", "url": "https://github.com/vdoflip" },
+  "homepage": "https://github.com/vdoflip/1pass-item-mcp",
+  "repository": "https://github.com/vdoflip/1pass-item-mcp",
+  "license": "MIT",
+  "keywords": ["1password", "secrets", "mcp", "security"]
+}
